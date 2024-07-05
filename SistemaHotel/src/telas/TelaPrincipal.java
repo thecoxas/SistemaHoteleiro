@@ -365,9 +365,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
     private void menuSairMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_menuSairMouseClicked
         // TODO add your handling code here:
-        Teste1 teste = new Teste1();
-        desktopPane.add(teste);
-        teste.setVisible(true);
+        
     }//GEN-LAST:event_menuSairMouseClicked
 
     /**
